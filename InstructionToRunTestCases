@@ -1,0 +1,1 @@
+Use this maven command to run the test cases : mvn clean test -DBrowser=Chrome
